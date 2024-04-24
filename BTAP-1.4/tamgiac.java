@@ -1,4 +1,4 @@
-public class a {
+public class tamgiac {
     public static String classifyTriangle(int side1, int side2, int side3) {
         if (side1 <= 0 || side2 <= 0 || side3 <= 0) {
             return "NotATriangle";

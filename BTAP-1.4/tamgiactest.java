@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class atest {
+public class tamgiactest {
     @Test
     public void testEquilateralTriangle() {
         int side1 = 5;
