@@ -35,14 +35,21 @@ Kết quả kiểm thử
 ![alt text](image-6.png)
 
 3.	Lấy thông tin chi tiết của một bia:
+
 •	Lấy thông tin của một bia có ID hợp lệ: Thành công, API trả về mã trạng thái 200 OK và thông tin chi tiết của bia.
+
 •	Lấy thông tin của một bia có ID không tồn tại: Thành công, API trả về mã trạng thái 404 Not Found và thông báo lỗi.
+
 
 
 4.	Cập nhật thông tin của một bia:
 •	Cập nhật thông tin của một bia có ID hợp lệ: Thành công, API trả về mã trạng thái 200 OK và thông tin bia đã được cập nhật.
+
 •	Cập nhật thông tin của một bia có ID không tồn tại: Thành công, API trả về mã trạng thái 404 Not Found và thông báo lỗi.
+
 5.	Xóa một bia:
 •	Xóa một bia có ID hợp lệ: Thành công, API trả về mã trạng thái 204 No Content.
+
 •	Xóa một bia có ID không tồn tại: Thành công, API trả về mã trạng thái 404 Not Found và thông báo lỗi.
+
 
