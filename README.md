@@ -1,8 +1,13 @@
 1.Lựa chọn một API thực tế để kiểm thử: https://random-data-api.com/api/v2/beers
+
 Báo cáo Kiểm Thử API Bia
+
 Mục tiêu
+
 Mục tiêu của đợt kiểm thử này là xác minh chức năng của các API CRUD (Create, Read, Update, Delete) liên quan đến quản lý danh sách bia.
+
 Phạm vi
+
 Các ca kiểm thử bao gồm:
 1.	Thêm bia mới
 2.	Lấy danh sách bia
