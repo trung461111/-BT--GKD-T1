@@ -1,6 +1,6 @@
-Đây là báo cáo kiểm thử chi tiết cho API Bia từ https://random-data-api.com/api/v2/beers:
+ Báo cáo kiểm thử chi tiết cho API Bia từ https://random-data-api.com/api/v2/beers:
 
-## Báo Cáo Kiểm Thử API Bia
+## Báo Cáo Kiểm Thử API BEER
 
 ### Mục Tiêu Kiểm Thử:
 - Xác minh rằng các chức năng CRUD (Create, Read, Update, Delete) của API bia hoạt động đúng theo tài liệu.
@@ -21,7 +21,7 @@
 
 ### Tài Liệu API
 
-Dựa trên tài liệu từ https://random-data-api.com/api/v2/beers, các chức năng chính của API bao gồm:
+ các chức năng chính của API bao gồm:
 
 1. `GET /api/v2/beers`: Lấy danh sách bia ngẫu nhiên.
 
